@@ -9,8 +9,11 @@
 	[
 		"Vintage"
 	],
+	"rulers":
+	[
+		120
+	],
 	"scroll_speed": 0,
 	"word_wrap": true,
-	"wrap_width": 120,
-	"rulers": [120]
+	"wrap_width": 120
 }
